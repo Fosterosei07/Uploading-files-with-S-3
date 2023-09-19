@@ -3,7 +3,7 @@ const fs = require('fs')
 
 const s3Client = new S3Client({
     region: 'eu-north-1',
-    endpoint: 'https://s3-eu-north-1.amazonaws.com/learn-s3-storage',
+    endpoint: 'https://s3-eu-north-1.amazonaws.com/learn-aws-storage',
     credentials:{
         accessKeyId: 'AKIAZZSMIBOGLUMC5BHI',
         secretAccessKey: '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'
