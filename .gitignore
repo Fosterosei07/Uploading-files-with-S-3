@@ -1,1 +1,4 @@
 /node_modules
+ENDPOINT='https://s3-eu-north-1.amazonaws.com/learn-s3-storage'
+AccessKeyId: 'AKIAZZSMIBOGLUMC5BHI',
+SecretAccessKey: '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'
